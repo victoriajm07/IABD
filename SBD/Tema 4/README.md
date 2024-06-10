@@ -1,7 +1,7 @@
 # Análisis y Búsqueda de Respuestas en Datos
 
-En esta unidad de trabajo vamos a tratar lo reference al análisis y la búsqueda de respuestas
-en datos.
+> "En esta unidad de trabajo vamos a tratar lo reference al análisis y la búsqueda de respuestas
+en datos."
 - Comenzamos viendo una serie de conceptos generales para después ver qué niveles existen
 en cuanto a analítica de datos y cuáles con las principales metodologías que se suelen
 emplear en minería de datos.

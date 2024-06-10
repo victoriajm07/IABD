@@ -1,5 +1,5 @@
 # IABD
-Este repositorio es para fines educativos en base a la Especialización de Inteligencia Atificial y Big Data
+Este repositorio es para fines educativos en base a la Especialización de Inteligencia Atificial y Big Data.
 
 Esta especialización consta de los siguientes módulos:
 

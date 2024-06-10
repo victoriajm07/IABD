@@ -1,3 +1,6 @@
+
+![imagen repo buena](https://github.com/victoriajm07/IABD/assets/122750285/cfc93000-0a46-4bbb-ae0c-1be08b3d0dd7)
+
 # IABD
 Este repositorio es para fines educativos en base a la Especialización de Inteligencia Artificial y Big Data, que consta de los siguientes módulos:
 

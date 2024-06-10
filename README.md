@@ -1,7 +1,5 @@
 # IABD
-Este repositorio es para fines educativos en base a la Especialización de Inteligencia Atificial y Big Data.
-
-Esta especialización consta de los siguientes módulos:
+Este repositorio es para fines educativos en base a la Especialización de Inteligencia Artificial y Big Data, que consta de los siguientes módulos:
 
 ## [BDA: Big Data Aplicado](BDA)
 1. Introducción a Apache Hadoop
